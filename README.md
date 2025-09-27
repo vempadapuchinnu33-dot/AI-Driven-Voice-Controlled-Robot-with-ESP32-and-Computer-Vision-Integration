@@ -1,0 +1,2 @@
+# AI-Driven-Voice-Controlled-Robot-with-ESP32-and-Computer-Vision-Integration
+Traditional methods for controlling robotic systems, which predominantly rely on  physical interfaces such as remote controls or smartphone applications, necessitate direct  manual interaction. This requirement for physical contact renders them impractical and  inefficient in a growing number of environments where hands-free operation .
